@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  run:
+    image: "datafusion-cli"
+    volumes:
+      - .:/app
+    command: ./src/look-ma-etl.sh

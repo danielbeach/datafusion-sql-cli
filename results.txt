@@ -1,0 +1,4 @@
+ride_count,rideable_type
+268750,electric_bike
+268363,classic_bike
+
