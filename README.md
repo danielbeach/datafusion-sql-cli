@@ -3,11 +3,12 @@
 
 This repo is trying to use the `datafusion` SQL CLI tool in combo with
  `bash` to try to make a simple ETL tool that can ...
- - Take an arguement for an input data file
+ - Take an argument for an input data file
  - Take some SQL query as input
  - Run the `Datafusion` SQL CLI and capture output to STDOUT
  - Right output to a file.
 
+Read the full blog post here https://www.confessionsofadataguy.com/datafusion-sql-cli-look-ma-i-made-a-new-etl-tool/
 
 ## Setup and Running
 Run the following Docker command to build the image
